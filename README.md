@@ -1,6 +1,6 @@
 # Imps Element Fullscreen
 
-A vue js directive that can easily move to element fullscreen view. Available for vue2 and vue3 both
+A vue js method that can easily move to element fullscreen view. Available for vue2 and vue3 both
 
 [![N|Solid](https://www.iampapaisarkar.in/powered-by.svg)](https://www.iampapaisarkar.in)
 

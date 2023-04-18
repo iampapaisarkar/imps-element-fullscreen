@@ -1,7 +1,7 @@
 {
     "name": "imps-element-fullscreen",
-    "version": "1.0.1",
-    "description": "A vue js directive that can easily move to element fullscreen view.",
+    "version": "1.0.2",
+    "description": "A vue js method that can easily move to element fullscreen view.",
     "main": "src/index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
@@ -15,7 +15,7 @@
       "element fullscreen",
       "app fullscreen",
       "vue fullscreen",
-      "vue fullscreen directive"
+      "vue fullscreen method"
     ],
     "author": "iampapaisarkar",
     "license": "MIT",
