@@ -26,7 +26,7 @@ npm i imps-element-fullscreen --tag=v3
 
 import Vue from 'vue'
 import App from './App.vue'
-import ImpsElementFullscreen from './imps-element-fullscreen'
+import ImpsElementFullscreen from 'imps-element-fullscreen'
 
 Vue.use(ImpsElementFullscreen);
 
